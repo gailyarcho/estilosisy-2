@@ -1,0 +1,22 @@
+/* Estilos para dispositivos móviles */
+@media only screen and (max-width: 480px) {
+/* Agrega tus estilos para dispositivos móviles aquí */
+}
+
+/* Estilos para tablets */
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+/* Agrega tus estilos para tablets aquí */
+}
+
+/* Estilos para escritorios */
+@media only screen and (min-width: 1200px) {
+/* Agrega tus estilos para escritorios aquí */
+}
+
+/* Estilos comunes para todos los dispositivos */
+/* Agrega tus estilos comunes aquí */
+
+
+@media only screen (orientation: landscape) and (orientation: portrait){
+
+}

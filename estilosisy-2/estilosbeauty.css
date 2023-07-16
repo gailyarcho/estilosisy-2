@@ -1,0 +1,47 @@
+h4 {
+  color: white; background-color: rgb(244, 118, 199); text-align: center; margin: 0%;
+}
+
+h1 {
+  color: white; background-color: rgb(244, 118, 199); text-align: center; margin: 0%;
+}
+
+p {
+  font-size: large; margin-top: 5%;
+}
+
+.topnav a {
+  float: left;
+  color: #f476c7;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.topnav a:hover {
+  background-color: #f1b5db;
+  color: black; 
+}
+
+body {
+  /* margin: 0;
+  padding: 0; */
+  font-family: 'Franklin Gothic Medium';
+}
+
+.content {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 30px;
+  margin-top: 20px;
+}
+      
+.item {
+  /* background-color: #f476c7; */
+  text-align: center;
+  color: #f476c7;
+}
+
+.footer {
+  text-align: center;
+}
